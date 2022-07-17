@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm andmatcha!
 
 ![](https://komarev.com/ghpvc/?username=andmatcha)
 
