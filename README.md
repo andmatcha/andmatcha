@@ -9,7 +9,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=andmatcha)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 私のスキル
+## 私について
 
 ### 個人的に勉強中
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
