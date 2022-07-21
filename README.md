@@ -1,17 +1,24 @@
-# Hi, I'm andmatcha!
+# Hi, I'm andmatcha🍵
 
 ![](https://komarev.com/ghpvc/?username=andmatcha)
 
+## ✨My Activity
 
-[![](https://raw.githubusercontent.com/andmatcha/andmatch/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/andmatcha/andmatch/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/andmatcha/andmatch/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/andmatcha/andmatch/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/andmatcha/andmatch/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div align="center" width="100%">
+  <img src="https://raw.githubusercontent.com/andmatcha/andmatch/master/profile-summary-card-output/2077/0-profile-details.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/andmatcha/andmatch/master/profile-summary-card-output/2077/1-repos-per-language.svg" width="49.4%">
+  <img src="https://raw.githubusercontent.com/andmatcha/andmatch/master/profile-summary-card-output/2077/2-most-commit-language.svg" width="49.4%">
+  <img src="https://raw.githubusercontent.com/andmatcha/andmatch/master/profile-summary-card-output/2077/3-stats.svg" width="49.4%">
+  <img src="https://raw.githubusercontent.com/andmatcha/andmatch/master/profile-summary-card-output/2077/4-productive-time.svg" width="49.4%">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=andmatcha" width="100%">
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=andmatcha)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 
-## 私について
+## 📚I'm learning...
 
-### 個人的に勉強中
+### for pleasure
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
@@ -19,7 +26,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-### POSSEで勉強中
+### in POSSE
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,7 +38,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 触ったことあります
+<br>
+
+## 📕I've studied a little...
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -44,7 +53,9 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
-### 興味があります
+<br>
+
+## 🧭I'm interested in...
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
