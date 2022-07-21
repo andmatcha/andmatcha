@@ -19,6 +19,9 @@
   alt="Alternative Text"
 />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br>
 
 ## 📚I'm learning...
