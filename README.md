@@ -1,7 +1,5 @@
 # Hi, I'm andmatcha🍵
 
-![](https://komarev.com/ghpvc/?username=andmatcha)
-
 ## ✨My Activity
 
 <div align="center" width="100%">
