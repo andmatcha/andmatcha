@@ -20,6 +20,82 @@
 />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 298 Contributions in the Year 2022
+ > 
+> 📦 84.3 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 37 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    60 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
+🌆 Daytime    116 commits    ███████░░░░░░░░░░░░░░░░░░   31.18% 
+🌃 Evening    139 commits    █████████░░░░░░░░░░░░░░░░   37.37% 
+🌙 Night      57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.32%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.91% 
+Tuesday      37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.95% 
+Wednesday    51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
+Thursday     38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.22% 
+Friday       41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.02% 
+Saturday     60 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
+Sunday       123 commits    ████████░░░░░░░░░░░░░░░░░   33.06%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     8 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
+Dockerfile               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/andmatcha/andmatcha/main/charts/bar_graph.png) 
+
+
+ Last Updated on 21/07/2022 09:43:38 UTC
 <!--END_SECTION:waka-->
 
 <br>
