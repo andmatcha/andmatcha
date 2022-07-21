@@ -14,6 +14,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=andmatcha" width="100%">
 </div>
 
+<img
+  src="https://github.com/andmatcha/readme-wakatime/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
+
 <br>
 
 ## 📚I'm learning...
