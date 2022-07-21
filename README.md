@@ -9,8 +9,9 @@
   <img src="https://raw.githubusercontent.com/andmatcha/andmatch/master/profile-summary-card-output/2077/3-stats.svg" width="49.4%">
   <img src="https://raw.githubusercontent.com/andmatcha/andmatch/master/profile-summary-card-output/2077/4-productive-time.svg" width="49.4%">
   
+  <img src="https://github-readme-stats.vercel.app/api?username=andmatcha&show_icons=true&theme=radical" width="100%">
+    
   <img src="https://github-profile-trophy.vercel.app/?username=andmatcha" width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" width="100%">
 </div>
 
 <img
