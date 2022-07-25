@@ -20,19 +20,19 @@
 />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-119-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 340 Contributions in the Year 2022
+> 🏆 341 Contributions in the Year 2022
  > 
 > 📦 84.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 43 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
@@ -89,11 +89,11 @@ Mac                      11 hrs 55 mins      ███████████�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Dockerfile               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+HTML                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81% 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
+Dockerfile               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68%
 
 ```
 
@@ -103,7 +103,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/andmatcha/andmatcha/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/07/2022 00:50:43 UTC
+ Last Updated on 25/07/2022 00:32:43 UTC
 <!--END_SECTION:waka-->
 
 <br>
