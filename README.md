@@ -20,7 +20,7 @@
 />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-127-blue)
 
@@ -32,7 +32,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 43 Public Repositories 
+> 📜 44 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
@@ -89,11 +89,11 @@ Mac                      12 hrs 19 mins      ███████████�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.81% 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
-Dockerfile               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68%
+HTML                     8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Dockerfile               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38%
 
 ```
 
@@ -103,7 +103,7 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/andmatcha/andmatcha/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/07/2022 11:11:06 UTC
+ Last Updated on 27/07/2022 11:13:46 UTC
 <!--END_SECTION:waka-->
 
 <br>
