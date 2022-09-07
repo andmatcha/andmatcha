@@ -26,7 +26,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 425 Contributions in the Year 2022
+> 🏆 429 Contributions in the Year 2022
  > 
 > 📦 85.8 kB Used in GitHub's Storage 
  > 
@@ -65,16 +65,20 @@ Sunday       122 commits    ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     8 mins              █████████░░░░░░░░░░░░░░░░   37.57% 
+SQL                      5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.42% 
+Markdown                 3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.82% 
+PHP                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   8.28% 
+Docker                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   7.19%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  21 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+posse2-hackathon-202209-t21 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      21 mins             █████████████████████████   100.0%
 
 ```
 
@@ -95,7 +99,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/andmatcha/andmatcha/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/09/2022 00:49:31 UTC
+ Last Updated on 07/09/2022 00:36:37 UTC
 <!--END_SECTION:waka-->
 
 <br>
