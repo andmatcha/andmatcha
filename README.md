@@ -20,7 +20,7 @@
 />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -101,7 +101,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/andmatcha/andmatcha/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/09/2022 00:37:56 UTC
+ Last Updated on 08/09/2022 00:40:57 UTC
 <!--END_SECTION:waka-->
 
 <br>
