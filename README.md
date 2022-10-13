@@ -20,7 +20,7 @@
 />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -103,7 +103,7 @@ Rust                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/andmatcha/andmatcha/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/10/2022 00:47:49 UTC
+ Last Updated on 13/10/2022 00:51:49 UTC
 <!--END_SECTION:waka-->
 
 <br>
