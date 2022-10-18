@@ -100,7 +100,7 @@ Rust                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/andmatcha/andmatcha/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/10/2022 00:52:16 UTC
+ Last Updated on 18/10/2022 00:55:15 UTC
 <!--END_SECTION:waka-->
 
 <br>
