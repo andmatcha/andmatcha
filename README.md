@@ -63,19 +63,16 @@ Sunday                   120 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Vue.js                   1 hr 30 mins        █████████████████░░░░░░░░   69.95 % 
-JavaScript               34 mins             ███████░░░░░░░░░░░░░░░░░░   26.40 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 9 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-vuex-books               2 hrs 9 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 9 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -95,7 +92,7 @@ Forth                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 07/03/2023 00:37:09 UTC
+ Last Updated on 08/03/2023 00:29:51 UTC
 <!--END_SECTION:waka-->
 
 <br>
