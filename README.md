@@ -20,13 +20,13 @@
 />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-506%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-506%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 73.3 kB Used in GitHub's Storage 
+> 📦 73.4 kB Used in GitHub's Storage 
  > 
 > 🏆 208 Contributions in the Year 2023
  > 
@@ -63,16 +63,16 @@ Sunday                   1016 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+rust-cli-01              2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -92,7 +92,7 @@ Forth                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2023 01:13:33 UTC
+ Last Updated on 14/04/2023 00:31:14 UTC
 <!--END_SECTION:waka-->
 
 <br>
