@@ -26,9 +26,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 73.5 kB Used in GitHub's Storage 
+> 📦 73.6 kB Used in GitHub's Storage 
  > 
-> 🏆 218 Contributions in the Year 2023
+> 🏆 219 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,17 +63,16 @@ Sunday                   1016 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Rust                     9 mins              ██████████████████████░░░   87.28 % 
-Text                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-rust-cli-01              11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -93,7 +92,7 @@ Forth                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 26/04/2023 01:15:06 UTC
+ Last Updated on 28/04/2023 00:31:27 UTC
 <!--END_SECTION:waka-->
 
 <br>
