@@ -28,11 +28,11 @@
 
 > 📦 73.7 kB Used in GitHub's Storage 
  > 
-> 🏆 219 Contributions in the Year 2023
+> 🏆 220 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 45 Public Repositories 
+> 📜 46 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
@@ -63,16 +63,18 @@ Sunday                   1016 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               7 mins              ██████████████████████░░░   87.24 % 
+Python                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+rover                    7 mins              ██████████████████████░░░   87.24 % 
+gci2023                  1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -92,7 +94,7 @@ Forth                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2023 00:28:54 UTC
+ Last Updated on 09/05/2023 00:29:19 UTC
 <!--END_SECTION:waka-->
 
 <br>
