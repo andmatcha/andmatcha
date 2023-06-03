@@ -22,11 +22,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-532%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 115.5 kB Used in GitHub's Storage 
+> 📦 115.6 kB Used in GitHub's Storage 
  > 
 > 🏆 339 Contributions in the Year 2023
  > 
@@ -63,17 +63,17 @@ Sunday                   975 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-TypeScript               9 hrs 44 mins       █████████████████████████   99.49 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+TypeScript               9 hrs 8 mins        █████████████████████████   99.45 % 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 47 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ares-web                 9 hrs 47 mins       █████████████████████████   100.00 % 
+ares-web                 9 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -93,7 +93,7 @@ Forth                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2023 01:16:34 UTC
+ Last Updated on 03/06/2023 00:33:42 UTC
 <!--END_SECTION:waka-->
 
 <br>
