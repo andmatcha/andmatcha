@@ -63,16 +63,20 @@ Sunday                   119 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               6 mins              ██████████░░░░░░░░░░░░░░░   38.44 % 
+JSON                     5 mins              ████████░░░░░░░░░░░░░░░░░   30.47 % 
+Markdown                 5 mins              ███████░░░░░░░░░░░░░░░░░░   29.91 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+portfolio                17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Rust** 
@@ -92,7 +96,7 @@ Forth                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2023 00:25:48 UTC
+ Last Updated on 10/11/2023 00:27:57 UTC
 <!--END_SECTION:waka-->
 
 <br>
