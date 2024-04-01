@@ -26,7 +26,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 123.9 kB Used in GitHub's Storage 
+> 📦 123.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,7 +90,7 @@ Forth                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2024 01:04:44 UTC
+ Last Updated on 01/04/2024 00:30:09 UTC
 <!--END_SECTION:waka-->
 
 <br>
