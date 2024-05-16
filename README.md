@@ -28,6 +28,8 @@
 
 > 📦 135.6 kB Used in GitHub's Storage 
  > 
+> 🏆 44 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 48 Public Repositories 
@@ -96,7 +98,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2024 00:57:28 UTC
+ Last Updated on 16/05/2024 00:59:07 UTC
 <!--END_SECTION:waka-->
 
 <br>
