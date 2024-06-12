@@ -20,7 +20,7 @@
 />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-597%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-597%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -94,7 +94,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2024 00:33:16 UTC
+ Last Updated on 12/06/2024 00:35:04 UTC
 <!--END_SECTION:waka-->
 
 <br>
