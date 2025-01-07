@@ -36,45 +36,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-🌆 Daytime                431 commits         ████████░░░░░░░░░░░░░░░░░   30.01 % 
-🌃 Evening                552 commits         ██████████░░░░░░░░░░░░░░░   38.44 % 
-🌙 Night                  296 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Tuesday                  240 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Wednesday                198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Thursday                 179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Friday                   387 commits         ███████░░░░░░░░░░░░░░░░░░   26.95 % 
-Saturday                 115 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Sunday                   138 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Rust** 
 
 ```text
@@ -92,7 +53,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2025 00:36:24 UTC
+ Last Updated on 07/01/2025 00:38:24 UTC
 <!--END_SECTION:waka-->
 
 <br>
