@@ -20,7 +20,7 @@
 />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-685%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-684%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -63,16 +63,18 @@ Sunday                   142 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   30 mins             █████████████████████████   100.00 % 
+Python                   30 mins             ██████████████░░░░░░░░░░░   56.28 % 
+Markdown                 24 mins             ███████████░░░░░░░░░░░░░░   43.72 % 
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.00 % 
+VS Code                  55 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-computer-simulation2025  30 mins             █████████████████████████   100.00 % 
+computer-simulation2025  30 mins             ██████████████░░░░░░░░░░░   56.28 % 
+other                    24 mins             ███████████░░░░░░░░░░░░░░   43.72 % 
 
 💻 Operating System: 
-Mac                      30 mins             █████████████████████████   100.00 % 
+Mac                      55 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -92,7 +94,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2025 01:18:25 UTC
+ Last Updated on 29/04/2025 00:40:40 UTC
 <!--END_SECTION:waka-->
 
 <br>
