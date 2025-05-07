@@ -1,5 +1,3 @@
-# Hi, I'm andmatcha🍵
-
 ## ✨My Activity
 
 <div align="center" width="100%">
