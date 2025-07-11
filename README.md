@@ -18,13 +18,13 @@
 />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-711%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-710%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 175.3 kB Used in GitHub's Storage 
+> 📦 175.4 kB Used in GitHub's Storage 
  > 
 > 🏆 207 Contributions in the Year 2025
  > 
@@ -61,18 +61,18 @@ Sunday                   142 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 4 hrs 2 mins        ███████████████░░░░░░░░░░   58.61 % 
-Python                   2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   35.70 % 
-CSV                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Markdown                 5 hrs 10 mins       ██████████████░░░░░░░░░░░   57.82 % 
+Python                   3 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   37.55 % 
+CSV                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-univ                     6 hrs 54 mins       █████████████████████████   100.00 % 
+univ                     8 hrs 57 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -92,7 +92,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2025 01:27:26 UTC
+ Last Updated on 11/07/2025 00:44:26 UTC
 <!--END_SECTION:waka-->
 
 <br>
