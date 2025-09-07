@@ -18,13 +18,15 @@
 />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-782%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-782%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 254.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 291 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,7 +97,7 @@ Python                   4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2025 01:21:19 UTC
+ Last Updated on 07/09/2025 01:23:56 UTC
 <!--END_SECTION:waka-->
 
 <br>
