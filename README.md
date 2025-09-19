@@ -61,16 +61,21 @@ Sunday                   186 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               21 mins             ███████████████░░░░░░░░░░   61.01 % 
+Markdown                 10 mins             ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   35 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nissan-csv-exporter      35 mins             █████████████████████████   98.21 % 
+nissan-ai-bot            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,7 +95,7 @@ Python                   4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2025 00:40:07 UTC
+ Last Updated on 19/09/2025 00:43:35 UTC
 <!--END_SECTION:waka-->
 
 <br>
