@@ -18,6 +18,8 @@
 />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-834%20hrs%2032%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
@@ -97,7 +99,7 @@ C                        5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2025 00:44:42 UTC
+ Last Updated on 02/11/2025 00:47:26 UTC
 <!--END_SECTION:waka-->
 
 <br>
