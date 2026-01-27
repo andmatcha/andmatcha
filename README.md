@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-886%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -61,18 +61,17 @@ Sunday                   198 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Markdown                 13 mins             ███████████████████░░░░░░   75.44 % 
-HTML                     4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+Markdown                 10 mins             ██████████████████░░░░░░░   70.42 % 
+HTML                     4 mins              ███████░░░░░░░░░░░░░░░░░░   29.58 % 
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-univ                     14 mins             █████████████████████░░░░   83.03 % 
-Desktop                  3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+univ                     14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+Mac                      14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -92,7 +91,7 @@ Python                   5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 27/01/2026 15:04:35 UTC
+ Last Updated on 27/01/2026 15:07:22 UTC
 <!--END_SECTION:waka-->
 
 <br>
