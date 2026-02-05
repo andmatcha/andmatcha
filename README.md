@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-892%20hrs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -89,7 +89,7 @@ Mac                      3 hrs 4 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2026 09:21:09 UTC
+ Last Updated on 05/02/2026 09:21:34 UTC
 <!--END_SECTION:waka-->
 
 <br>
