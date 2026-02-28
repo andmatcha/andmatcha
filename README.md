@@ -92,7 +92,7 @@ Mac                      9 hrs 50 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 28/02/2026 14:55:54 UTC
+ Last Updated on 28/02/2026 14:56:19 UTC
 <!--END_SECTION:waka-->
 
 <br>
