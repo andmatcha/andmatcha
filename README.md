@@ -34,24 +34,24 @@
  > 
 > 🔑 17 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                668 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+🌆 Daytime                1975 commits        █████████░░░░░░░░░░░░░░░░   35.26 % 
+🌃 Evening                1777 commits        ████████░░░░░░░░░░░░░░░░░   31.73 % 
+🌙 Night                  1181 commits        █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   663 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Tuesday                  1023 commits        █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Wednesday                1075 commits        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Thursday                 1123 commits        █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+Friday                   1018 commits        █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Saturday                 430 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Sunday                   269 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 ```
 
 
@@ -73,8 +73,14 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-```text
+**I Mostly Code in TypeScript** 
 
+```text
+TypeScript               22 repos            ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+C                        17 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Rust                     9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 
 
@@ -84,7 +90,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2026 08:16:42 UTC
+ Last Updated on 16/07/2026 08:22:27 UTC
 <!--END_SECTION:waka-->
 
 <br>
