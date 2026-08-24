@@ -81,14 +81,8 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in TypeScript** 
-
 ```text
-TypeScript               22 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-C                        17 repos            █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Python                   14 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Rust                     10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+
 ```
 
 
@@ -98,7 +92,7 @@ PowerShell               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 09:33:16 UTC
+ Last Updated on 24/08/2026 09:33:46 UTC
 <!--END_SECTION:waka-->
 
 <br>
