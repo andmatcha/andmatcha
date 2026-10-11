@@ -36,24 +36,24 @@
  > 
 > 🔑 25 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                2 commits           ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌙 Night                  4 commits           █████████████████░░░░░░░░   66.67 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 4 commits           █████████████████░░░░░░░░   66.67 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   2 commits           ████████░░░░░░░░░░░░░░░░░   33.33 % 
 ```
 
 
@@ -81,8 +81,14 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-```text
+**I Mostly Code in TypeScript** 
 
+```text
+TypeScript               22 repos            ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+C                        17 repos            █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Python                   14 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Rust                     10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 
 
@@ -92,7 +98,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 15:56:44 UTC
+ Last Updated on 11/10/2026 15:57:27 UTC
 <!--END_SECTION:waka-->
 
 <br>
