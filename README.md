@@ -39,21 +39,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                583 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-🌆 Daytime                1888 commits        █████████░░░░░░░░░░░░░░░░   36.62 % 
-🌃 Evening                1604 commits        ████████░░░░░░░░░░░░░░░░░   31.11 % 
-🌙 Night                  1081 commits        █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+🌞 Morning                735 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+🌆 Daytime                2135 commits        █████████░░░░░░░░░░░░░░░░   35.12 % 
+🌃 Evening                1928 commits        ████████░░░░░░░░░░░░░░░░░   31.71 % 
+🌙 Night                  1282 commits        █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   648 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Tuesday                  1011 commits        █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-Wednesday                1002 commits        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Thursday                 1066 commits        █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Friday                   870 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Saturday                 404 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Sunday                   155 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Monday                   751 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Tuesday                  1104 commits        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Wednesday                1177 commits        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Thursday                 1220 commits        █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Friday                   1032 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Saturday                 501 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Sunday                   295 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 ```
 
 
@@ -81,14 +81,14 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in C** 
+**I Mostly Code in TypeScript** 
 
 ```text
-C                        13 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Python                   9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+TypeScript               22 repos            ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+C                        18 repos            █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+Python                   15 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Rust                     10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+PowerShell               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 
 
@@ -98,7 +98,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 22:14:28 UTC
+ Last Updated on 17/10/2026 22:20:20 UTC
 <!--END_SECTION:waka-->
 
 <br>
