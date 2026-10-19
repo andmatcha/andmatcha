@@ -81,14 +81,8 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in C** 
-
 ```text
-C                        13 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Python                   9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+
 ```
 
 
@@ -98,7 +92,7 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/andmatcha/andmatcha/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2026 02:16:09 UTC
+ Last Updated on 19/10/2026 02:16:39 UTC
 <!--END_SECTION:waka-->
 
 <br>
